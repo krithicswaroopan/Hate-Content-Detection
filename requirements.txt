@@ -1,0 +1,6 @@
+streamlit  # APP GUI
+snscrape   # To scrape tweets
+unidecode  # Text cleaning
+scikit-learn
+typing-extensions
+
